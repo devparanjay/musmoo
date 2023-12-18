@@ -1,0 +1,6 @@
+tokenizers>=0.15.0,<0.16.0  # https://github.com/huggingface/tokenizers
+onnxruntime-gpu>=1.16.3,<1.17.0  # https://onnxruntime.ai
+# onnxruntime  # https://onnxruntime.ai
+numpy>=1.26.2,<1.27.0  # https://github.com/numpy/numpy
+transformers>=4.36.1,<4.37.0  # https://github.com/huggingface/transformers
+# optimum>=1.16.1,<1.17.0  # https://github.com/huggingface/optimum

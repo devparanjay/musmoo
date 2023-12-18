@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rw-modules
+Version: 0.0.1
+Summary: RaagWiz.
+Author: Paranjay
+Author-email: 45117614+devparanjay@users.noreply.github.com
+Keywords: Emotion Detection,RaagWiz,Text Classification,LLM,Music,Recommendation,Mood Detection
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
+
+A magical app that tells you the best song to listen to basd upon your mood.
