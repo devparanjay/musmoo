@@ -1,3 +1,0 @@
-tokenizers<0.16.0,>=0.15.0
-onnxruntime-gpu<1.17.0,>=1.16.3
-numpy<1.27.0,>=1.26.2
