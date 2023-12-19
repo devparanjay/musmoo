@@ -1,3 +1,4 @@
 text.md
 setup.py
-./vscode/
+.vscode/
+out/

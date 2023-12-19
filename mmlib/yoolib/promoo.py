@@ -3,7 +3,6 @@ from collections import defaultdict
 import json
 import os
 import glob
-import shutil
 
 def get_conf(confpath):
     with open(confpath, 'r') as conff:
